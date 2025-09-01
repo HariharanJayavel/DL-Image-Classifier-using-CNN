@@ -235,8 +235,6 @@ predict_image(model, image_index=80, dataset=test_dataset)
 
 <img width="510" height="622" alt="image" src="https://github.com/user-attachments/assets/66a91bba-aeea-45f9-8d7d-e7528c9e6f0e" />
 
-### Result
 
-Thus,a Convolutional Neural Network Classification Model is Successfully Built.
 ## RESULT
-Include your result here
+Thus, a Convolutional Neural Network Classification Model is Successfully Built.
